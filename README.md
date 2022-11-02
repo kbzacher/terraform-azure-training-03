@@ -1,1 +1,0 @@
-# terraform-azure-training-03
